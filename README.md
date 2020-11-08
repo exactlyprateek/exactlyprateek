@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with **Competitive Programming** 👨‍💻
 - 💬 Ask me about **Designs, Video editing, Cricket and Stars** 🌃
 - 📫 How to reach me: ![exactlyprateek.github.io](exactlyprateek.github.io)
-- ⚡ Fun fact: Pro in playing maiden overs as a Batsman 🏏
+- ⚡ Fun fact: I can solve a Rubik's cube in a minute ⏱️
 
 <hr>
 
