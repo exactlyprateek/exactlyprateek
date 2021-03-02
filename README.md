@@ -6,11 +6,11 @@
 
 #### I'm a Full-Stack Developer working remotely from Faridabad, India.
 
-- 🔭 I’m currently working on a Work Providing App for daily wage workers
+- 🔭 I’m currently working on a Resources Providing WebApp for Students
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 🏋️‍ I’m looking to collaborate on **Django** or **React** Projects
-- 🤔 I’m looking for help with **Competitive Programming** 👨‍💻
-- 💬 Ask me about **Designs, Video editing, Cricket and Stars** 🌃
+- 🤔 I’m looking for help with **Placement Preperation** 👨‍💻
+- 💬 Ask me about **Designs, Websites, Cricket and Stars** 🌃
 - 📫 How to reach me: ![exactlyprateek.github.io](exactlyprateek.github.io)
 - ⚡ Fun fact: I can solve a Rubik's cube in a minute ⏱️
 
