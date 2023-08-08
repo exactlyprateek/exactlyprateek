@@ -4,14 +4,13 @@
 
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working remotely from Faridabad, India.
+#### I'm a Full-Stack Developer from India, studying in Germany.
 
-- 🔭 I’m currently working on a Resources Providing WebApp for Students
-- 🌱 I’m currently learning Data Science & Machine Learning
-- 🏋️‍ I’m looking to collaborate on **Django** or **React** Projects
-- 🤔 I’m looking for help with **Placement Preperation** 👨‍💻
+- 🔭 I’m currently working on a IaaS platform.
+- 🌱 I’m currently learning Distributed Systems and Systems Engineering
+- 🏋️‍ I’m looking to collaborate on **DevOps** or **Frontend** Projects
 - 💬 Ask me about **Designs, Websites, Cricket and Stars** 🌃
-- 📫 How to reach me: ![exactlyprateek.github.io](exactlyprateek.github.io)
+- 📫 How to reach me: ![prateek.eu](prateek.eu)
 - ⚡ Fun fact: I can solve a Rubik's cube in a minute ⏱️
 
 <hr>
