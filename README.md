@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Distributed Systems and Systems Engineering
 - 🏋️‍ I’m looking to collaborate on **DevOps** or **Frontend** Projects
 - 💬 Ask me about **Designs, Websites, Cricket and Stars** 🌃
-- 📫 How to reach me: ![prateek.eu](prateek.eu)
+- 📫 How to reach me:![prateek.eu](https://prateek.eu)
 - ⚡ Fun fact: I can solve a Rubik's cube in a minute ⏱️
 
 <hr>
